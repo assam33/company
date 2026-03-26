@@ -1,6 +1,5 @@
 /* ═══════════════════════════════════════════════
-   NexaCode — main.js
-   Pure Vanilla JavaScript — no dependencies
+InnoVibe— main.js
 ═══════════════════════════════════════════════ */
 
 document.addEventListener('DOMContentLoaded', () => {
